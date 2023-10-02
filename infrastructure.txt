@@ -1,0 +1,13 @@
+jb bhi hum koi app banatay hain hamay uski deployment ky liye server chahye hotay hain
+vercel ny yeh kam acha krdia h vercel ny easy krdia h nextjs ki deployment ko 
+infrastructure apki app run horhe hai
+infrastructure provision krna 
+(ram cpu kitna chhaye server lenay ky liye yeh sawal hoga)
+infrastructure as a tool terafrom ky ilawa bhi tool h ap thora sa code banao
+infrastructure ka code likhna h (IAC infrastructure as a code)
+nextjs code provision krna h
+nextjs ny provide kia 
+Cloud development kit amazon ki kit koi bhi programming language h ap infrastructure ka code apni language hoga
+(vercel ny framework m code likha howa h vercel pe jatay hain code ka infrastructure vercel krdeta h)
+apny framework m hi apky liye kam krky rkh lia 
+infrastructure framework define infrastructure
